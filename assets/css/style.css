@@ -12,9 +12,16 @@ h2 {
 }
 
 h3,
-p,
+p {
+  color: green;
+}
+
 li {
   color: green;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
 }
 
 img {
